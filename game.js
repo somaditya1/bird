@@ -1,3 +1,5 @@
+
+//starter code
 const RAD = Math.PI / 180;
 const scrn = document.getElementById("canvas");
 const sctx = scrn.getContext("2d");
