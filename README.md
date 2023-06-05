@@ -1,3 +1,3 @@
 # bird
 Simple Game
-https://aaarafat.github.io/JS-Flappy-Bird/index.html
+[Run Time](https://aaarafat.github.io/JS-Flappy-Bird/index.html)
